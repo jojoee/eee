@@ -12,7 +12,7 @@ Contact:
 
 Version:
 --------
-- eee v0.0.1
+- eee v0.0.2
 """
 
 import sys
@@ -22,10 +22,10 @@ from eee import e
 def main():
     """eeee ee ee"""
     if len(sys.argv) > 1:
-        e(sys.argv[1])
+        print(e(int(sys.argv[1])))
 
     else:
-        e(10)
+        print(e())
 
 
 """

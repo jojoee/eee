@@ -2,57 +2,13 @@
 
 eeeeeeeee eeeeee, eeeee ee "eeeeeeeeeeee" eeeeeeeeee
 
-## eeeeeeeeeeee
-
-```
-# eee
-eee eeeeeee eee-eeeeeeeee
-
-# eeeee
-eeeee eeeeeee eee-eeeeeeeee
-# eeeeeeeeee/eeeeeee.eeee
-```
-
-## eeeeeee eeeee eee eee
+## Usage
 
 ```python
-# eeeeeee eeeee
-# - ee
-# - ee
+from eee import e
 
-eee eeeeee = eeeeeee('eee-eeeeeeeee');
-```
-
-### eeeeee.eeeee(eeeeee, [eeeeeeeeee=*])
-
-```python
-# ee eee eeee
-# eeeeee: e eeee 2 eeee
-eeeeee.eeeee('e eeee 2 eeee');
-
-# eeeeee eeee
-# eeeeee: e eeee ****, eee.
-eeeeee.eeeee('e eeee eeee, eee.');
-
-# eeee eeeeeeeee
-# eeeeee: e eeee ****
-eeeeee.eeeee('e eeee eeee');
-
-# eeeeeeeee ee eeeee eee eee
-# eeeeee: e eeee ****.
-eeeeee.eeeee('e eeee eeee.');
-
-# eeeee eeeeeeeeee
-# eeeeee: e eeee ****,****, ***, eee eee.
-eeeeee.eeeee('e eeee eeee,eeee, eee, eee eee.');
-
-# eeeeee eee eeeeee eeeeeeee-eeee
-# eeeeee: eee eeeeeee eeeeeee eeeeee
-eeeeee.eeeee('eee eeeeeee eeeeeee eeeeee');
-
-# eeeee eeee eeeeee eeeeeeeeeee-eeeeeeeee
-# eeeeee: e eeee ++++
-eeeeee.eeeee('e eeee eeee', '+');
+e(10) # 'eeeeeeeeee'
+e() # 'eee'
 ```
 
 ## eeee
