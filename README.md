@@ -1,4 +1,9 @@
-# eee-eeeeeeeee
+# eee
+
+![flake8 + pytest](https://github.com/jojoee/eee/workflows/flake8%20+%20pytest/badge.svg?branch=master)
+[![PyPI version fury.io](https://badge.fury.io/py/eee.svg)](https://pypi.python.org/pypi/eee/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![codecov](https://codecov.io/gh/jojoee/eee/branch/master/graph/badge.svg)](https://codecov.io/gh/jojoee/eee)
 
 eeeeeeeee eeeeee, eeeee ee "eeeeeeeeeeee" eeeeeeeeee
 
