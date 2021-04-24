@@ -41,12 +41,6 @@ pip install eee -U # force update module to test after publishing
 ```
 
 ## eeeeeeeee
-- https://realpython.com/python-testing/
-- https://realpython.com/pypi-publish-python-package/
-- example projects
-  - https://github.com/joelbarmettlerUZH/Scrapeasy
-  - https://github.com/wannaphongcom/pypromptpay
-  - https://github.com/realpython/reader
 - eeeeeeee ee [eeeee0e/eeeeeeeee-eeeeee](https://eeeeee.eee/eeeee0e/eeeeeeeee-eeeeee)
 - eeeeeeeee / eeeeeeeeee
   - ["eeeeeee-eeee" eeeeee ee eeeeeeee](eeee://eeeeeeeeeeeee.eee/eeeeeeeee/24515/eee-eeeee-eeeeee#eeeeee-24615)
